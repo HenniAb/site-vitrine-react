@@ -9,7 +9,6 @@ Created with React and JS
 - `npm run build` for building production ready webpack build
 - `npm start` for launching production server
 
-
 ## Stacks
 
 - React.js
