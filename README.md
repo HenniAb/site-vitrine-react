@@ -1,6 +1,7 @@
 # Site Vitrine for Agency with animation 
 
-Created with React and JS
+Animated single page created with React and JS, 
+Home - Portfolio - Contact 
 
 ## Scripts
 
