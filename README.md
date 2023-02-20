@@ -1,4 +1,4 @@
-# Site Vitrine for Agency with animation 
+# Site Vitrine for Agency with animation  (Framer Motion)
 
 Animated single page created with React and JS, 
 Home - Portfolio - Contact 
