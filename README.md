@@ -1,6 +1,6 @@
 # Site Vitrine for Agency with animation  (Framer Motion JS)
 
-Animated single page created with React and JS, 
+Animated single page created with React and JavaScript, 
 Home - Portfolio - Contact 
 
 ## Scripts
